@@ -11,6 +11,11 @@ Works with a large number of sites, including YouTube, Discord, and more!
 
 Read below for information if the official site is blocked or for obtaining more links.
 
+ATTENTION ATTENTION ATTENTION: THIS IS winton-chan, and this is a reminder that all of this code is ported from Titanium Network's official Holy Unblocker page.
+This was made for extra seperate custom domain in case the other links from the official discord group doesn't work.
+I DO NOT OWN ANY OF THIS CODE, PLEASE USE THIS ACCORDINGLY AND FOLLOW ALL RULES.
+ALSO, THERE WILL BE A LIMIT USAGE OF 5 HOURS PER DAY UNTIL FEB 27. I WILL BE RENEWING THIS SOON!!!
+
 #### Supports
 - Youtube.com
 - Discord.com
